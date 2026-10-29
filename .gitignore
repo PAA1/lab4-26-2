@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Solução de referência e gerador dos casos (uso do professor)
+lab4_gabarito.py
+gerar_casos.py
+
+# Arquivos gerados durante a execução
+resultado_lab4.html
+.vscode/
+.idea/
